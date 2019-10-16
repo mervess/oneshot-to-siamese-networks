@@ -2,6 +2,7 @@ matplotlib
 numpy
 opencv-python
 keras
+tensorflow
 scikit-learn
 jupyter
 dill
